@@ -10,7 +10,10 @@ Instruções Básicas para implementar o sistema Git no Projeto:
 Comandos para acionar o git; 
 No terminal, selecione a opção Git Bash; 
 Em seguida envie o comando; 
-$ git init // Comando refente a inicialização do Git. 
-$ git add <Nome do Arquivo a ser adicionado>// Se posicionar na fila de adição ao repositorio (palco/ Comit ). 
-$ git status // Informa o status de alocação dos arquivos e integridade do repositório. 
+//$ git init // Comando refente a inicialização do Git. 
+//$ git add <Nome do Arquivo a ser adicionado>// Se posicionar na fila de adição ao repositorio (palco/ Comit ). 
+//$ git status // Informa o status de alocação dos arquivos e integridade do repositório. 
 
+Comandos para liberação de acesso para execução do Commit: 
+//$ git config --global user.email // Comando para registrar seu email.
+//$ git congig --global user.name // Comando para Registrar seu nome, usado no registro do commit
