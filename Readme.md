@@ -16,4 +16,11 @@ Em seguida envie o comando;
 
 Comandos para liberação de acesso para execução do Commit: 
 //$ git config --global user.email // Comando para registrar seu email.
-//$ git congig --global user.name // Comando para Registrar seu nome, usado no registro do commit
+//$ git congig --global user.name // Comando para Registrar seu nome, usado no registro do commit.
+
+para enviar todos os arquivos prontos para o commit, use este comando 
+
+$ git add. 
+
+Testando novas alterações no projeto. 
+
