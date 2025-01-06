@@ -20,9 +20,12 @@ Comandos para liberação de acesso para execução do Commit:
 //$ git congig --global user.name // Comando para Registrar seu nome, usado no registro do commit.
 
 para enviar todos os arquivos prontos para o commit, use este comando 
-
-$ git add. 
+$ git add . 
+$ git push -u origin main // comando para envio da documentação;
 
 Testando novas alterações no projeto. 
 Testando novas alterações no projeto Dash; 
+
+Limpando e formatando a documentação // Add de padronização de commits
+
 
