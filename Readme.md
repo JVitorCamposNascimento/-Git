@@ -29,3 +29,6 @@ Testando novas alterações no projeto Dash;
 Limpando e formatando a documentação // Add de padronização de commits
 
 
+> Testando incremento de Branch ( ramificando o porjeto)
+
+$ git checkout -b "Ramo-1"
