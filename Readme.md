@@ -24,4 +24,5 @@ para enviar todos os arquivos prontos para o commit, use este comando
 $ git add. 
 
 Testando novas alterações no projeto. 
+Testando novas alterações no projeto Dash; 
 
